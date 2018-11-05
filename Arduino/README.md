@@ -7,6 +7,12 @@ Most documentation in this repository is forked from [https://github.com/adfinis
 
 ## Arduino
 
+### Simple Clock
+Simple code for testing a static clock
+
+### Wifi_Clock
+Automatic Clock with ntp support via wifi
+
 ### Ethernet_WebService
 
 Based on Arduino leonardo with ethernet support. offer base service wia HTTP GET Request for :
