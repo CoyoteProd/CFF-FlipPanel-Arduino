@@ -7,6 +7,8 @@ Most documentation in this repository is forked from [https://github.com/adfinis
 
 ## RS-485 interface
 
+![alt text](Arduino Shield1.jpg "Shield for arduino")
+
 ### Simple interface buid with 8pin chip (Max485, or other compatible chip)
 
 Based on Arduino ProtoShiel from Sparkfun
