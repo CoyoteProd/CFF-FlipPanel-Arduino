@@ -1,29 +1,21 @@
-# SBB split flap displays
+# SBB split flap displays with Arduino Support
 
 [![License](https://img.shields.io/github/license/adfinis-sygroup/sbb-fallblatt.svg?style=flat-square)](LICENSE)
 
 Documentation and code for interfacing with SBB split flap display modules.
+Most documentation in this repository is forked from [https://github.com/adfinis-sygroup/sbb-fallblatt](https://github.com/adfinis-sygroup/sbb-fallblatt)
 
-## General
+## What new from fork
 
-Most documentation in this repository is taken from old original documens or reverse engineered. It is far from being complete. If you have any additional informations which you like to share, please contact us or even create an pull request.
-
-## Documentation
-
-There are 2 types of single modules, in this repo called old and new ones. The old ones do not have an integrated RS485 controller while the new ones do.
-
-For complete units there only seems to exist a "Omega controller" which seems to to talk to old modules only.
+ - Added Arduino support
+ - build your own RS-485 interface
+ - Build a clock with Date
 
 ### New modules
 
 - [Electrical details](./doc/electrical_new_module.md)
 - [Communication protocol](./doc/protocol_new_modules.md)
 - [Char<->Blade mapping](./doc/char_mapping.md)
-
-
-### Old modules
-
-- TBD
 
 ### Omega controller
 
