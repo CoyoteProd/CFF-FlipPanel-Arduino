@@ -7,10 +7,12 @@ Most documentation in this repository is forked from [https://github.com/adfinis
 
 ## RS-485 interface
 
-![alt text](Arduino_Shield1.jpg "Shield for arduino")
+![alt text](Arduino_Shield2.jpg "Shield for arduino")
 
 ### Simple interface buid with 8pin chip (Max485, or other compatible chip)
 
 Based on Arduino ProtoShiel from Sparkfun
  - DC/DC power duck (original Omega module provide 36V DC)
  - Support ESP8266 AT Mode
+
+![alt text](Schematic.png)
